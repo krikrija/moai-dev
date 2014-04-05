@@ -14431,7 +14431,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-3rdparty";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -14470,7 +14470,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-3rdparty";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -14486,7 +14486,7 @@
 				);
 				GCC_VERSION = "";
 				PRODUCT_NAME = "moai-osx";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 			};
 			name = Debug;
@@ -14501,7 +14501,7 @@
 				);
 				GCC_VERSION = "";
 				PRODUCT_NAME = "moai-osx";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 			};
 			name = Release;
@@ -15491,7 +15491,7 @@
 				);
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "moai-osx-zlcore";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -15507,7 +15507,7 @@
 				);
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "moai-osx-zlcore";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -15609,7 +15609,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-untz";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -15645,7 +15645,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-untz";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -15895,7 +15895,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-luaext";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -15931,7 +15931,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-luaext";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -16728,7 +16728,7 @@
 				);
 				GCC_VERSION = "";
 				PRODUCT_NAME = "moai-osx";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 			};
 			name = Distribution;
@@ -16766,7 +16766,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-3rdparty";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -16802,7 +16802,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-luaext";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -16838,7 +16838,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-untz";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -16854,7 +16854,7 @@
 				);
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "moai-osx-zlcore";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -17377,7 +17377,7 @@
 				);
 				GCC_VERSION = "";
 				PRODUCT_NAME = "moai-osx";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 			};
 			name = AdHoc;
@@ -17415,7 +17415,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-3rdparty";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -17451,7 +17451,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-luaext";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -17487,7 +17487,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				PRODUCT_NAME = "moai-osx-untz";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
@@ -17503,7 +17503,7 @@
 				);
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "moai-osx-zlcore";
-				SDKROOT = macosx;
+				SDKROOT = macosx10.8;
 				VALID_ARCHS = "i386 x86_64 ppc970 ppc7400 ppc64 ppc";
 				WARNING_CFLAGS = "-w";
 			};
